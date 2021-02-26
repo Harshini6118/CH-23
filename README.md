@@ -1,1 +1,1 @@
-# CH-23
+# Box Class
